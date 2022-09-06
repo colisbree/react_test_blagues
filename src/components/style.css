@@ -1,0 +1,12 @@
+.center {
+   text-align: center;
+   background-color: rgb(192, 238, 236);
+}
+
+.padding-left {
+   padding-left: 10vh;
+}
+
+.padding-top {
+   padding-top: 5vh;
+}
